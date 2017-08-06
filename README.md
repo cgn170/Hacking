@@ -1,6 +1,2 @@
-# Hacking
-# Hacking
-# Hacking
-# Hacking
-# Hacking
-# Hacking
+# Hacking Scripts
+List with small scripts for pentesting.
